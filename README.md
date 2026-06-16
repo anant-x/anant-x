@@ -1,16 +1,19 @@
-## Hi there 👋
+👋 Hi, I'm a Computer Science student passionate about technology, software development, and problem-solving.
 
-<!--
-**anant-x/anant-x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Currently exploring:
+- Python
+- Linux & Cloud Computing
+- Automation & AI
+- Web Development
 
-Here are some ideas to get you started:
+🚀 Interests:
+- Building useful projects
+- Learning new technologies
+- Open-source contributions
+- Chess and continuous self-improvement
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Currently focused on strengthening my programming, system design, and software engineering skills.
+
+🌱 Always learning, always building.
+
+📫 Feel free to explore my repositories and connect with me!
