@@ -39,11 +39,20 @@ anant-x
 | Area | What I am building toward |
 | --- | --- |
 | Programming | Clean Python, problem-solving, data structures, and readable code |
-| Systems | Linux, command line workflows, networking basics, and cloud fundamentals |
+| Systems | Linux, command-line workflows, networking basics, and cloud fundamentals |
 | Automation | Scripts, workflows, and tools that remove repetitive work |
 | AI | Practical AI use cases, agents, prompts, and intelligent developer workflows |
 | Web | Responsive interfaces, APIs, and user-focused product thinking |
 | Engineering | Documentation, testing habits, maintainability, and system design thinking |
+
+---
+
+## Featured Projects
+
+| Project | What it does | Status |
+| --- | --- | --- |
+| [YouTube Shorts Automation](https://github.com/anant-x/youtube-shorts-automation) | Generates vertical short-form videos and uploads them to YouTube on a schedule. | Active |
+| [Placement Prep AI](https://github.com/anant-x/placement-prep-ai) | A planned AI-assisted workspace for structured placement preparation. | Planning |
 
 ---
 
