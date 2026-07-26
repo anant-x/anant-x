@@ -9,6 +9,7 @@
 I like turning useful ideas into real products: clean interfaces, reliable systems, automation workflows, and AI tools that solve everyday problems.
 
 [![PrepSetu Live Website](https://img.shields.io/badge/PrepSetu-Live%20Website-16A34A?style=for-the-badge&logo=vercel&logoColor=white)](https://placement-prep-ai-one.vercel.app)
+[![VideoBlitz Live Website](https://img.shields.io/badge/VideoBlitz-Live%20Website-FF704E?style=for-the-badge&logo=vercel&logoColor=white)](https://fastlane-steel.vercel.app)
 [![Placement Prep AI Repo](https://img.shields.io/badge/Placement%20Prep%20AI-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anant-x/placement-prep-ai)
 [![Explore Repositories](https://img.shields.io/badge/Explore-Repositories-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anant-x?tab=repositories)
 
@@ -25,7 +26,7 @@ I like turning useful ideas into real products: clean interfaces, reliable syste
 ```txt
 anant-x
 role: Computer Science Student
-building: PrepSetu, automation tools, AI workflows, and web products
+building: PrepSetu, VideoBlitz, automation tools, AI workflows, and web products
 focus: Python | Linux | Cloud | Automation | AI | Web
 mindset: learn deeply -> build practically -> improve consistently
 goal: create useful software that is reliable, clean, and meaningful
@@ -62,11 +63,23 @@ What it includes:
 
 ---
 
+## Shipped Product: VideoBlitz
+
+VideoBlitz is an AI video creation studio that turns a website or topic into multiple short-form video candidates for review, editing, and publishing. It combines scene generation, relevant stock footage, full-video voice narration, captions, background music, and asynchronous rendering.
+
+| Link | Details |
+| --- | --- |
+| Live website | <https://fastlane-steel.vercel.app> |
+| Repository | <https://github.com/anant-x/URL-to-Video-Generator> |
+
+---
+
 ## Featured Projects
 
 | Project | What it does | Status |
 | --- | --- | --- |
 | [PrepSetu / Placement Prep AI](https://github.com/anant-x/placement-prep-ai) | AI placement interview platform with a live Vercel website, student dashboards, admin tools, billing, and college pilot flows. | Active |
+| [VideoBlitz](https://github.com/anant-x/URL-to-Video-Generator) | AI video creation studio with website-to-video workflows, voice, music, captions, and a live production deployment. | Active |
 | [YouTube Shorts Automation](https://github.com/anant-x/youtube-shorts-automation) | Generates vertical short-form videos and uploads them to YouTube on a schedule. | Active |
 
 ---
@@ -148,6 +161,7 @@ What it includes:
 ### Learning in public. Building with intention. Improving one commit at a time.
 
 [![PrepSetu](https://img.shields.io/badge/Visit-PrepSetu-16A34A?style=for-the-badge&logo=vercel&logoColor=white)](https://placement-prep-ai-one.vercel.app)
+[![VideoBlitz](https://img.shields.io/badge/Visit-VideoBlitz-FF704E?style=for-the-badge&logo=vercel&logoColor=white)](https://fastlane-steel.vercel.app)
 [![GitHub](https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anant-x?tab=repositories)
 
 </div>
