@@ -1,122 +1,110 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0f766e,100:2563eb&height=190&section=header&text=Anant%20%7C%20anant-x&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Computer%20Science%20Student%20%E2%80%A2%20Builder%20%E2%80%A2%20Future-focused%20Engineer&descAlignY=58&descSize=16" alt="Anant - GitHub profile banner" />
+# Anant
 
-# Hi, I'm Anant
+### Computer science student building useful AI, automation, and web products.
 
-### Computer Science student building practical software with curiosity, clarity, and consistency.
+I turn ideas into working software, with a focus on clear interfaces, reliable systems, and practical outcomes.
 
-I am focused on the space where **programming fundamentals**, **Linux systems**, **cloud computing**, **automation**, **AI**, and **web development** come together to solve real problems.
-
-[![Profile Views](https://komarev.com/ghpvc/?username=anant-x&label=Profile%20Views&color=2563eb&style=flat-square)](https://github.com/anant-x)
-[![GitHub Followers](https://img.shields.io/github/followers/anant-x?label=Followers&style=flat-square&color=0f766e)](https://github.com/anant-x?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/anant-x?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&color=f59e0b)](https://github.com/anant-x?tab=repositories)
+[![VideoBlitz](https://img.shields.io/badge/VideoBlitz-Live_product-FF704E?style=for-the-badge&logo=vercel&logoColor=white)](https://fastlane-steel.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anant-arora-b3aab6269/)
+[![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anant-x?tab=repositories)
 
 </div>
 
 ---
 
-## About Me
+## What I am building
 
-```txt
-anant-x
-├── role: Computer Science Student
-├── focus: Python | Linux | Cloud | Automation | AI | Web
-├── mindset: learn deeply -> build practically -> improve consistently
-└── goal: create useful software that is reliable, clean, and meaningful
-```
+### [VideoBlitz](https://fastlane-steel.vercel.app)
 
-- I enjoy turning ideas into working projects, one clear step at a time.
-- I am strengthening my foundations in programming, system design, and software engineering.
-- I like working with Linux, automation, developer tools, and AI-powered workflows.
-- I believe good engineering is not just about writing code; it is about solving the right problem well.
-- Outside code, chess keeps me sharp: patience, pattern recognition, and better decisions under pressure.
+An AI video creation studio that turns a website or topic into multiple short-form video candidates for review, editing, and publishing.
 
----
+- Generates structured scenes from a source website or prompt
+- Finds relevant video footage from stock-media providers
+- Supports full-video voice narration, captions, and background music
+- Uses asynchronous generation jobs so long renders continue in the background
+- Includes swipe-first discovery, a detailed editing studio, a content library, and planning workflows
 
-## Current Focus
+**Built with:** React, Vite, Node.js, Express, Supabase, Vercel, Groq, ElevenLabs, HeyGen, Pexels, Pixabay, and Creatomate.
 
-| Area | What I am building toward |
-| --- | --- |
-| Programming | Clean Python, problem-solving, data structures, and readable code |
-| Systems | Linux, command-line workflows, networking basics, and cloud fundamentals |
-| Automation | Scripts, workflows, and tools that remove repetitive work |
-| AI | Practical AI use cases, agents, prompts, and intelligent developer workflows |
-| Web | Responsive interfaces, APIs, and user-focused product thinking |
-| Engineering | Documentation, testing habits, maintainability, and system design thinking |
+[Open VideoBlitz](https://fastlane-steel.vercel.app) | [View my repositories](https://github.com/anant-x?tab=repositories)
 
 ---
 
-## Featured Projects
+## Selected projects
 
-| Project | What it does | Status |
+| Project | What it does | Links |
 | --- | --- | --- |
-| [YouTube Shorts Automation](https://github.com/anant-x/youtube-shorts-automation) | Generates vertical short-form videos and uploads them to YouTube on a schedule. | Active |
-| [Placement Prep AI](https://github.com/anant-x/placement-prep-ai) | A planned AI-assisted workspace for structured placement preparation. | Planning |
+| **VideoBlitz** | Creates short-form video candidates from websites and topics, with voice, music, captions, and an editing workflow. | [Live product](https://fastlane-steel.vercel.app) |
+| **YouTube Shorts Automation** | Generates vertical short-form videos and automates scheduled YouTube publishing. | [Repository](https://github.com/anant-x/youtube-shorts-automation) |
+| **Sports Arena Tournaments** | A tournament website and administration dashboard for managing sports events. | [Repository](https://github.com/anant-x/sports-arena-tournaments) |
+| **Placement Prep AI** | An AI-assisted workspace for structured placement preparation. | [Repository](https://github.com/anant-x/placement-prep-ai) |
+| **Cricket Predictor** | A TypeScript project exploring prediction workflows for cricket. | [Repository](https://github.com/anant-x/cricket-predictor) |
 
 ---
 
-## Tech Toolbox
+## Tools I work with
+
+**Product and frontend**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-1B1B1B?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-1B1B1B?style=flat-square&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-1B1B1B?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-1B1B1B?style=flat-square&logo=css3&logoColor=1572B6)
+![Vite](https://img.shields.io/badge/Vite-1B1B1B?style=flat-square&logo=vite&logoColor=646CFF)
+
+**Backend and infrastructure**
+
+![Node.js](https://img.shields.io/badge/Node.js-1B1B1B?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
+![Express](https://img.shields.io/badge/Express-1B1B1B?style=flat-square&logo=express&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-1B1B1B?style=flat-square&logo=supabase&logoColor=3FCF8E)
+![Vercel](https://img.shields.io/badge/Vercel-1B1B1B?style=flat-square&logo=vercel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1B1B1B?style=flat-square&logo=python&logoColor=3776AB)
+
+**Workflow and systems**
+
+![Linux](https://img.shields.io/badge/Linux-1B1B1B?style=flat-square&logo=linux&logoColor=FCC624)
+![Git](https://img.shields.io/badge/Git-1B1B1B?style=flat-square&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-1B1B1B?style=flat-square&logo=github&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-1B1B1B?style=flat-square&logo=gnubash&logoColor=4EAA25)
+
+---
+
+## How I approach engineering
+
+- Understand the user and the problem before choosing the implementation.
+- Build the complete workflow, not only the attractive first screen.
+- Keep interfaces clear and code readable.
+- Test important behavior and document what remains unfinished.
+- Use automation to remove repetitive work, not human judgment.
+
+---
+
+## Current direction
+
+I am strengthening my foundations in data structures, system design, cloud infrastructure, and production software engineering while continuing to ship practical projects.
+
+I am especially interested in:
+
+- AI-assisted creative tools
+- Workflow and publishing automation
+- Reliable web applications
+- Linux and cloud systems
+- Developer tools and open-source collaboration
+
+---
+
+## Contact
+
+- **Website:** [fastlane-steel.vercel.app](https://fastlane-steel.vercel.app)
+- **LinkedIn:** [Anant Arora](https://www.linkedin.com/in/anant-arora-b3aab6269/)
+- **GitHub:** [@anant-x](https://github.com/anant-x)
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=111111)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111)
-![Cloud](https://img.shields.io/badge/Cloud-2563EB?style=for-the-badge&logo=icloud&logoColor=white)
-![Automation](https://img.shields.io/badge/Automation-0F766E?style=for-the-badge&logo=zapier&logoColor=white)
-![AI](https://img.shields.io/badge/AI-111827?style=for-the-badge&logo=openai&logoColor=white)
+Building in public, learning carefully, and shipping useful software.
+
+![Profile views](https://komarev.com/ghpvc/?username=anant-x&label=Profile+views&color=FF704E&style=flat-square)
 
 </div>
-
----
-
-## How I Build
-
-- **Start with fundamentals:** understand the problem before rushing to the solution.
-- **Keep it practical:** build small, useful things and improve them over time.
-- **Write for humans:** code, commits, and documentation should be easy to follow.
-- **Automate wisely:** let computers handle repetitive work so people can focus on decisions.
-- **Stay consistent:** small improvements compound into real skill.
-
----
-
-## GitHub Snapshot
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=anant-x&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Anant's GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anant-x&layout=compact&theme=tokyonight&hide_border=true" alt="Anant's most used languages" />
-
-<img src="https://streak-stats.demolab.com?user=anant-x&theme=tokyonight&hide_border=true" alt="Anant's GitHub streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anant-x&theme=tokyo-night&hide_border=true&area=true" alt="Anant's contribution activity graph" />
-
-</div>
-
----
-
-## What I Am Open To
-
-- Collaborating on beginner-friendly and practical open-source projects.
-- Building tools around automation, AI, cloud, Linux, and web development.
-- Learning from engineers, creators, and communities that value clear thinking.
-- Turning small ideas into real repositories with clean READMEs and steady iteration.
-
----
-
-<div align="center">
-
-### Learning in public. Building with intention. Improving one commit at a time.
-
-[![GitHub](https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anant-x?tab=repositories)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,45:0f766e,100:020617&height=100&section=footer" alt="Profile footer" />
